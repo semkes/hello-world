@@ -1,4 +1,4 @@
 # hello-world
 Testing my skills :)
 
-My first GIT biting :) 
+My first GIT'n fun :) 
